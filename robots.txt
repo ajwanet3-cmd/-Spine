@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://spine-a2v.pages.dev/sitemap.xml
